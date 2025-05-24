@@ -7,16 +7,16 @@ The Livestock Health Monitoring System is a real-time, intelligent solution desi
 Wearable IoT Sensors
 Monitors vital signs like heart rate, body temperature, and location.
 
-# Gateway Device
+Gateway Device
 Collects sensor data and transmits it securely to the cloud.
 
-# Cloud-Based Machine Learning
+Cloud-Based Machine Learning
 Detects health anomalies and predicts illnesses before symptoms appear.
 
-# Mobile & Web Dashboard
+Mobile & Web Dashboard
 Sends real-time alerts and actionable insights to farmers.
 
-# Scalable Architecture
+Scalable Architecture
 Built using affordable hardware (e.g., Raspberry Pi), enabling deployment in various farm sizes.
 
 # Objectives
